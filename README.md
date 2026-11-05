@@ -2,6 +2,10 @@
 ### 🤖 Machine Learning | Natural Language Processing | Python | Streamlit
 
 <p align="center">
+  <p align="center">
+  <img src="sms-spam-banner.png" alt="SMS Spam Detection with Streamlit" width="100%">
+</p>
+
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-Text%20Classification-purple?style=for-the-badge" />
